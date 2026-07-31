@@ -2,7 +2,6 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
@@ -19,45 +18,42 @@
   />
 </p>
 
-# Projeto artigo técnico gerado por I.A.s
+# Projeto: Criando Artigos Técnicos com IA
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
+  <a href="COLE_AQUI_O_LINK_DO_SEU_ARTIGO_DA_DIO" title="Preview do Conteúdo">
   <img src=".github/assets/video-preview.png" width="80%">
   </a>
 <p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="COLE_AQUI_O_LINK_DO_SEU_ARTIGO_DA_DIO" title="Ler o artigo"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
-
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                   |
+| :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  título  | Crie 5 headlines chamativas para um artigo ensinando a usar o ChatGPT e o Lexica.art para escrever artigos técnicos na área de tecnologia.                                                                                                                                                                                                |
+| conteúdo | Aja como um desenvolvedor experiente e redija um artigo técnico engajador explicando o passo a passo para criar artigos usando IA. Divida o texto nos tópicos: criação épica e ética, definição de assunto, prompts ricos, decupação, escrita manual e formatação. Use um tom profissional e didático. |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No Lexica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a criação do conteúdo foram:
 
-• Angular
-
-
+• artificial intelligence writing code futuristic
+• digital art glowing neon technology isometric
 
 ## ✨ Features
 
@@ -72,23 +68,22 @@ Lexica.art：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="LINK_DA_SUA_FOTO_AQUI_(PODE_SER_O_LINK_DO_SEU_AVATAR_DO_GITHUB)"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspSEU NOME AQUI<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="LINK_DO_SEU_GITHUB_AQUI">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="LINK_DO_SEU_LINKEDIN_AQUI">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -97,4 +92,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [SEU NOME AQUI](LINK_DO_SEU_GITHUB_AQUI)
