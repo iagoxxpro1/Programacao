@@ -1,36 +1,8 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
-
--------
-
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
-# Projeto: Criando Artigos Técnicos com IA
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
-
-<p align="center">
-  <a href="COLE_AQUI_O_LINK_DO_SEU_ARTIGO_DA_DIO" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="COLE_AQUI_O_LINK_DO_SEU_ARTIGO_DA_DIO" title="Ler o artigo"> 📕Clique aqui para ler o artigo</a>
+<a href="https://dio.me/articles/revolucionando-a-criacao-de-artigos-tecnicos-com-ia-guia-pratico-com-chatgpt-e-lexicaart-fe73927d3d3a?utm_source=link&utm_campaign=mgm-revolucionando-a-criacao-de-artigos-tecnicos-com-ia-guia-pratico-com-chatgpt-e-lexicaart-fe73927d3d3a&utm_medium=article" title="Ler o artigo"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -75,21 +47,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="LINK_DA_SUA_FOTO_AQUI_(PODE_SER_O_LINK_DO_SEU_AVATAR_DO_GITHUB)"
+      src="https://avatars.githubusercontent.com/u/82056475?s=96&v=4"
     />
-    <p>&nbsp&nbsp&nbspSEU NOME AQUI<br>
+    <p>&nbsp&nbsp&nbspIago Rubiar<br>
     &nbsp&nbsp&nbsp
-    <a href="LINK_DO_SEU_GITHUB_AQUI">
+    <a href="https://github.com/iagoxxpro1">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="LINK_DO_SEU_LINKEDIN_AQUI">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/iago-rubiar/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
+    <a href="https://www.instagram.com/iago_rubiar/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [SEU NOME AQUI](LINK_DO_SEU_GITHUB_AQUI)
