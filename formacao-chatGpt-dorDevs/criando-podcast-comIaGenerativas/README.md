@@ -30,7 +30,7 @@ O objetivo foi criar um episódio curto, informativo e descontraído, utilizando
 
 Neste projeto, o conteúdo do podcast foi baseado no e-book **"Brilho e a Saúde do seu PET"**, abordando como a alimentação natural pode contribuir para a saúde da pele e da pelagem dos cães.
 
-<a href="https://github.com/iagoxxpro1/Programacao/blob/main/formacao-chatGpt-dorDevs/criando-podcast-comIaGenerativas/output/podcast.m4a" title="Ler o artigo"> 📕Clique aqui para ouvir o podcast</a>
+<a href="https://github.com/iagoxxpro1/Programacao/blob/main/formacao-chatGpt-dorDevs/criando-podcast-comIaGenerativas/output" title="Ler o artigo"> 📕Clique aqui para ouvir o podcast</a>
 
 ---
 
