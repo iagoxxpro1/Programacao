@@ -10,6 +10,8 @@ Este projeto foi desenvolvido durante um desafio da **DIO (Digital Innovation On
 
 Todo o processo foi realizado com auxílio de IA, desde a pesquisa do mercado até a criação da página de vendas.
 
+<a href="https://github.com/iagoxxpro1/Programacao/blob/main/formacao-chatGpt-dorDevs/criando-ebook-chatGPT/output/ebook%20Brilho%20e%20a%20Saude%20do%20seu%20PET.pdf" title="Ler o artigo"> 📕Clique aqui para ler o artigo</a>
+
 ---
 
 # 🎯 Objetivo
