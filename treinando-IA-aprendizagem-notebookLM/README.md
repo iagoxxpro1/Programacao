@@ -206,8 +206,25 @@ Durante o desenvolvimento deste projeto foi possível aprender:
 
 # 👨‍💻 Autor
 
-**Iago Figueiredo**
-
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/82056475?s=96&v=4"
+    />
+    <p>&nbsp&nbsp&nbspIago Rubiar<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/iagoxxpro1">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/iago-rubiar/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/iago_rubiar/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 Projeto desenvolvido como parte do desafio da **Digital Innovation One (DIO)**.
 
 ---
