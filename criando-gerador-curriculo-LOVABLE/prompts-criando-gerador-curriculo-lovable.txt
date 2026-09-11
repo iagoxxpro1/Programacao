@@ -1,0 +1,6 @@
+PRIMEIRO PROMPT
+- eu quero criar um app do zero no lovable e 100% lá para fazer matchmaking de vagas de emprego e criar versões de curriculum do usuário que sejam ats friendly para essa vaga. Não adicione login para o usuário só entrar e executar.
+- quero que você use SHadCN como design system
+- quero nas cores, marrom, branco e verde oliva
+- me mande o prompt único em formato MarkDown
+
